@@ -1,0 +1,1 @@
+PIK-style Variant A for Центр подбора новостроек «Рассвет». Deploy: upload folder to Vercel (Upload -> Folder) or push files to GitHub root and connect repo to Vercel.
